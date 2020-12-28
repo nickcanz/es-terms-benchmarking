@@ -1,0 +1,1730 @@
+[
+  {
+    "mean": 0.028260250975000005,
+    "max": 0.03599409372500001,
+    "min": 0.021091990725000002,
+    "median": 0.028713714225,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 10
+  },
+  {
+    "mean": 0.04417252649772729,
+    "max": 0.07379435672500001,
+    "min": 0.027565782725000005,
+    "median": 0.042405181725000005,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 10
+  },
+  {
+    "mean": 0.05564452656499999,
+    "max": 0.07333920672500001,
+    "min": 0.04339531572500001,
+    "median": 0.054710441725,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 10
+  },
+  {
+    "mean": 0.075465466225,
+    "max": 0.10763049372500001,
+    "min": 0.055403700725000005,
+    "median": 0.07295354822500001,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 10
+  },
+  {
+    "mean": 0.0878343038554348,
+    "max": 0.121777742725,
+    "min": 0.068231633725,
+    "median": 0.08372271172500001,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 10
+  },
+  {
+    "mean": 0.10964400605833334,
+    "max": 0.147540118725,
+    "min": 0.07839181672500001,
+    "median": 0.10877073422500001,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 10
+  },
+  {
+    "mean": 0.18602392422500003,
+    "max": 0.21384418472500002,
+    "min": 0.138759662725,
+    "median": 0.188398011725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 10
+  },
+  {
+    "mean": 0.2336195886138889,
+    "max": 0.261060073725,
+    "min": 0.20700481272500001,
+    "median": 0.23170706472500002,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 10
+  },
+  {
+    "mean": 0.024959031651829274,
+    "max": 0.04466875572500001,
+    "min": 0.018835631725000003,
+    "median": 0.023974031725,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 10
+  },
+  {
+    "mean": 0.030007998113888896,
+    "max": 0.05595254972500001,
+    "min": 0.022064007725,
+    "median": 0.028393550725,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 10
+  },
+  {
+    "mean": 0.03575774379642858,
+    "max": 0.057100483725,
+    "min": 0.025182066725,
+    "median": 0.035288381725000005,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 10
+  },
+  {
+    "mean": 0.050125655994230765,
+    "max": 0.07796561372500001,
+    "min": 0.037541178725,
+    "median": 0.049406590725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 10
+  },
+  {
+    "mean": 0.06555412551666667,
+    "max": 0.093533802725,
+    "min": 0.042364064725,
+    "median": 0.065758227725,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 10
+  },
+  {
+    "mean": 0.07800546577499999,
+    "max": 0.10953490072500001,
+    "min": 0.05006496572500001,
+    "median": 0.07729465222500001,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 10
+  },
+  {
+    "mean": 0.11139526148690476,
+    "max": 0.19024254772500002,
+    "min": 0.07196504172500001,
+    "median": 0.10237744472500002,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 10
+  },
+  {
+    "mean": 0.11619388393928572,
+    "max": 0.16065216372500002,
+    "min": 0.08503141972500002,
+    "median": 0.10923287922500001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 10
+  },
+  {
+    "mean": 0.02041075945472973,
+    "max": 0.024619687725000002,
+    "min": 0.016817202725,
+    "median": 0.020194842725000002,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 100
+  },
+  {
+    "mean": 0.023460886863888888,
+    "max": 0.029196608725,
+    "min": 0.019702027725,
+    "median": 0.023428758225,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 100
+  },
+  {
+    "mean": 0.028109597752777778,
+    "max": 0.040693197725000005,
+    "min": 0.021997010725000002,
+    "median": 0.027692200225,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 100
+  },
+  {
+    "mean": 0.038293398519117644,
+    "max": 0.053713262725,
+    "min": 0.026734089725000004,
+    "median": 0.038435640225000005,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 100
+  },
+  {
+    "mean": 0.04916280514807692,
+    "max": 0.063529635725,
+    "min": 0.038267571725000005,
+    "median": 0.047750444725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 100
+  },
+  {
+    "mean": 0.057153705021296304,
+    "max": 0.07438378172500001,
+    "min": 0.046595743725,
+    "median": 0.055564593725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 100
+  },
+  {
+    "mean": 0.090343253525,
+    "max": 0.12832496672500002,
+    "min": 0.06930428672500001,
+    "median": 0.088941100725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 100
+  },
+  {
+    "mean": 0.11566149989166667,
+    "max": 0.143928835725,
+    "min": 0.09500910372500002,
+    "median": 0.11631261622500001,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 100
+  },
+  {
+    "mean": 0.01988060737205883,
+    "max": 0.024388666725,
+    "min": 0.016937126725,
+    "median": 0.019522527225000003,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 100
+  },
+  {
+    "mean": 0.02332616848109756,
+    "max": 0.031470062725,
+    "min": 0.018755168725,
+    "median": 0.022722763725,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 100
+  },
+  {
+    "mean": 0.024322680067857146,
+    "max": 0.035801444725000006,
+    "min": 0.019939255725,
+    "median": 0.023421261725000003,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 100
+  },
+  {
+    "mean": 0.03227934040147058,
+    "max": 0.03916026072500001,
+    "min": 0.025343360725000003,
+    "median": 0.03275283122500001,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 100
+  },
+  {
+    "mean": 0.041964714245000014,
+    "max": 0.055062634725000004,
+    "min": 0.029214887725000003,
+    "median": 0.041471934725000006,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 100
+  },
+  {
+    "mean": 0.05559010361388888,
+    "max": 0.06640698072500001,
+    "min": 0.04508594372500001,
+    "median": 0.055659534725,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 100
+  },
+  {
+    "mean": 0.07884921142065218,
+    "max": 0.10370441772500001,
+    "min": 0.06365686172500001,
+    "median": 0.07660832172500001,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 100
+  },
+  {
+    "mean": 0.08961498444722221,
+    "max": 0.11294327872500001,
+    "min": 0.07088467172500001,
+    "median": 0.08643218722500001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 100
+  },
+  {
+    "mean": 0.022872375768478264,
+    "max": 0.031798147725,
+    "min": 0.016501060725000002,
+    "median": 0.023095746725,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 500
+  },
+  {
+    "mean": 0.028735518439285717,
+    "max": 0.03760549172500001,
+    "min": 0.021394524725000003,
+    "median": 0.028148519725000005,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 500
+  },
+  {
+    "mean": 0.030465825830263162,
+    "max": 0.045046333725,
+    "min": 0.022334487725,
+    "median": 0.029972574725000003,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 500
+  },
+  {
+    "mean": 0.03582185642065217,
+    "max": 0.05356159372500001,
+    "min": 0.026460248725,
+    "median": 0.035782016725000004,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 500
+  },
+  {
+    "mean": 0.045942066575,
+    "max": 0.055793621725000006,
+    "min": 0.035779290724999996,
+    "median": 0.04636755872500001,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 500
+  },
+  {
+    "mean": 0.06359249666944446,
+    "max": 0.07567479372500001,
+    "min": 0.05313133072500001,
+    "median": 0.06323749072500001,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 500
+  },
+  {
+    "mean": 0.12841800985000001,
+    "max": 0.19480545672500002,
+    "min": 0.08077859672500001,
+    "median": 0.11401936872500001,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 500
+  },
+  {
+    "mean": 0.1273333584942308,
+    "max": 0.150973362725,
+    "min": 0.10609967072500001,
+    "median": 0.12474690372500002,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 500
+  },
+  {
+    "mean": 0.021896176105952382,
+    "max": 0.032659029725,
+    "min": 0.017636458725,
+    "median": 0.020911388725,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 500
+  },
+  {
+    "mean": 0.025371894772619048,
+    "max": 0.034596425725000005,
+    "min": 0.020068344725000003,
+    "median": 0.024236019725000002,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 500
+  },
+  {
+    "mean": 0.028004140058333335,
+    "max": 0.03399491272500001,
+    "min": 0.023629053725,
+    "median": 0.027617107725000003,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 500
+  },
+  {
+    "mean": 0.03723544663409092,
+    "max": 0.046079971725,
+    "min": 0.026760988725,
+    "median": 0.038068061225,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 500
+  },
+  {
+    "mean": 0.047538358825,
+    "max": 0.08419241772500001,
+    "min": 0.035779648725,
+    "median": 0.045393782725000005,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 500
+  },
+  {
+    "mean": 0.07100505388289474,
+    "max": 0.081567004725,
+    "min": 0.062175856725000006,
+    "median": 0.07031461872500001,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 500
+  },
+  {
+    "mean": 0.11977423364807692,
+    "max": 0.161184129725,
+    "min": 0.10076063172500001,
+    "median": 0.11818948672500001,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 500
+  },
+  {
+    "mean": 0.1289915216416667,
+    "max": 0.149368309725,
+    "min": 0.116901191725,
+    "median": 0.12767658472500001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 500
+  },
+  {
+    "mean": 0.021615659836111117,
+    "max": 0.029342185725,
+    "min": 0.018950021725000002,
+    "median": 0.020043404725000002,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.030447455162499998,
+    "max": 0.04517245072500001,
+    "min": 0.022827416725,
+    "median": 0.029653561225,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.032178616725,
+    "max": 0.038925217725,
+    "min": 0.026359133725,
+    "median": 0.030716694725,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.04488747955833334,
+    "max": 0.055917680725,
+    "min": 0.034575570725000004,
+    "median": 0.043393072225,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.05892798887884616,
+    "max": 0.074580599725,
+    "min": 0.05046738672500001,
+    "median": 0.057279269725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.08349655487884615,
+    "max": 0.09753582872500001,
+    "min": 0.073322155725,
+    "median": 0.08323140572500001,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.14186902272500002,
+    "max": 0.162985558725,
+    "min": 0.11794027172500002,
+    "median": 0.141535816725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.16986366028055555,
+    "max": 0.18131791672500003,
+    "min": 0.162599340725,
+    "median": 0.170088092725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.023951806662500002,
+    "max": 0.035482803725,
+    "min": 0.019273732725000003,
+    "median": 0.023354403225,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.026614848991666662,
+    "max": 0.032721741725,
+    "min": 0.023080239725,
+    "median": 0.025529115725000003,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.0312775241625,
+    "max": 0.045373449725,
+    "min": 0.025671575725000003,
+    "median": 0.030800222225000007,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.0393800162875,
+    "max": 0.044221155725,
+    "min": 0.033125938725,
+    "median": 0.040330021225,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.057676383186538456,
+    "max": 0.076127844725,
+    "min": 0.046278661725,
+    "median": 0.05557796972500001,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.08975613705833334,
+    "max": 0.18385947772500003,
+    "min": 0.07294071272500001,
+    "median": 0.08005166522500001,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.14285062452500003,
+    "max": 0.16408587172500003,
+    "min": 0.134350112725,
+    "median": 0.13985966972500002,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.18644496910000002,
+    "max": 0.203451605725,
+    "min": 0.17111495772500002,
+    "median": 0.18555474022500001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 1000
+  },
+  {
+    "mean": 0.025641135324999998,
+    "max": 0.031765193725,
+    "min": 0.020442289725,
+    "median": 0.026004820225000003,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.029910900947222225,
+    "max": 0.034281574725,
+    "min": 0.026080329725,
+    "median": 0.030368052725,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.032962556325,
+    "max": 0.036902849725000006,
+    "min": 0.029291738725,
+    "median": 0.033049551225,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.050561511836111114,
+    "max": 0.05673703972500001,
+    "min": 0.043964486725,
+    "median": 0.049754393725,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.06900192650277778,
+    "max": 0.08253782172500002,
+    "min": 0.05982681172500001,
+    "median": 0.07083408472500001,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.10468316729642857,
+    "max": 0.130131299725,
+    "min": 0.08871375972500001,
+    "median": 0.103932490725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.20214987252500002,
+    "max": 0.23259913372500002,
+    "min": 0.18674628172500002,
+    "median": 0.19448273872500002,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.23396828889166668,
+    "max": 0.24789687472500002,
+    "min": 0.21926616972500002,
+    "median": 0.23335628072500003,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.024350414525000003,
+    "max": 0.035807907725000004,
+    "min": 0.020011169725,
+    "median": 0.023662307725,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.027901385925,
+    "max": 0.03230554772500001,
+    "min": 0.022975812725000003,
+    "median": 0.027794552225000005,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.035280060625000005,
+    "max": 0.040986555725,
+    "min": 0.030446548725000005,
+    "median": 0.035295726225000004,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.04908915732500001,
+    "max": 0.05625670372500001,
+    "min": 0.041279785725000004,
+    "median": 0.049844054725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.07591102997500002,
+    "max": 0.082219976725,
+    "min": 0.07086205072500001,
+    "median": 0.07459825522500001,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.11804257160000003,
+    "max": 0.13324302072500002,
+    "min": 0.104989026725,
+    "median": 0.11799484572500002,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.21983136872500006,
+    "max": 0.239669767725,
+    "min": 0.19716071372500002,
+    "median": 0.22269687572500002,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.27836011172499997,
+    "max": 0.332732482725,
+    "min": 0.258759146725,
+    "median": 0.267148444725,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 2000
+  },
+  {
+    "mean": 0.025305833925000003,
+    "max": 0.028948709725000004,
+    "min": 0.023269791725000002,
+    "median": 0.024849595725000003,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.038671780125000006,
+    "max": 0.044739220725,
+    "min": 0.035410272725,
+    "median": 0.036925745725,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.04842258152500001,
+    "max": 0.052522591725,
+    "min": 0.044335945725000006,
+    "median": 0.048486664725,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.07490957552500002,
+    "max": 0.07860956872500001,
+    "min": 0.071912195725,
+    "median": 0.074943621725,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.10718455172500001,
+    "max": 0.122543407725,
+    "min": 0.094110501725,
+    "median": 0.108450274725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.16418116872500002,
+    "max": 0.19121236272500003,
+    "min": 0.15202573672500003,
+    "median": 0.158363222725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.31481541452499995,
+    "max": 0.32550504272499997,
+    "min": 0.31071394272499997,
+    "median": 0.311422814725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.420745230925,
+    "max": 0.436249581725,
+    "min": 0.406233524725,
+    "median": 0.418415415725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.028957970125000003,
+    "max": 0.029946133725,
+    "min": 0.027708475725000004,
+    "median": 0.028806201725000005,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.037482912325,
+    "max": 0.039432505725,
+    "min": 0.03361917072500001,
+    "median": 0.038812643725,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.044900302525000005,
+    "max": 0.04952765272500001,
+    "min": 0.040054766724999996,
+    "median": 0.045068823725,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.07464259652500002,
+    "max": 0.078681133725,
+    "min": 0.06967617272500001,
+    "median": 0.075159134725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.110250887125,
+    "max": 0.11666185172500002,
+    "min": 0.099271049725,
+    "median": 0.11286391672500001,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.18407336612500003,
+    "max": 0.201681263725,
+    "min": 0.174956205725,
+    "median": 0.17993777372500003,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.373015594125,
+    "max": 0.404055119725,
+    "min": 0.350523969725,
+    "median": 0.373907708725,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.47411967412500006,
+    "max": 0.5363441227250001,
+    "min": 0.437637413725,
+    "median": 0.468560372725,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 5000
+  },
+  {
+    "mean": 0.032940047725,
+    "max": 0.037414063725,
+    "min": 0.028142761725000003,
+    "median": 0.033348048724999996,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.046534324325,
+    "max": 0.051140836725,
+    "min": 0.041504429725,
+    "median": 0.047744084725,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.06270796092500001,
+    "max": 0.07258535572500001,
+    "min": 0.055588789725000004,
+    "median": 0.06113888172500001,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.09902027252500002,
+    "max": 0.12029192972500002,
+    "min": 0.09054016572500001,
+    "median": 0.09310107472500001,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.15012431252500003,
+    "max": 0.156594174725,
+    "min": 0.14627003472500003,
+    "median": 0.14926360572500003,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.23156712932500004,
+    "max": 0.253807081725,
+    "min": 0.21995161172500002,
+    "median": 0.22453170472500003,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.528265019925,
+    "max": 0.574001845725,
+    "min": 0.488921507725,
+    "median": 0.511722559725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.7492803881250001,
+    "max": 0.7841062027250001,
+    "min": 0.6762328297250001,
+    "median": 0.763191505725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.031956858725,
+    "max": 0.03900000772500001,
+    "min": 0.028863855725000002,
+    "median": 0.030444933725,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.046969077525,
+    "max": 0.051828509725,
+    "min": 0.043636624725,
+    "median": 0.046197323725,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.05755772992500001,
+    "max": 0.06620799172500001,
+    "min": 0.050928922725000006,
+    "median": 0.05625862772500001,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.10070145672500001,
+    "max": 0.10865307372500001,
+    "min": 0.084814682725,
+    "median": 0.104773880725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.14724606772499998,
+    "max": 0.162482776725,
+    "min": 0.14061279472500002,
+    "median": 0.14371392772500002,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.23348100432500002,
+    "max": 0.257046735725,
+    "min": 0.21890938372500002,
+    "median": 0.22966909872500002,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.5661258357250001,
+    "max": 0.6016334737250001,
+    "min": 0.545010067725,
+    "median": 0.554146229725,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.704216728125,
+    "max": 0.8012710287250001,
+    "min": 0.6550202597250001,
+    "median": 0.6840360487250001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 10000
+  },
+  {
+    "mean": 0.03490042712500001,
+    "max": 0.041220195725000006,
+    "min": 0.030884342725000003,
+    "median": 0.033851834725,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.06034783852500001,
+    "max": 0.07436617672500001,
+    "min": 0.052806065725000004,
+    "median": 0.058244722725,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.07804690712500001,
+    "max": 0.089490656725,
+    "min": 0.066774607725,
+    "median": 0.07709878072500001,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.128694870525,
+    "max": 0.14871615572500002,
+    "min": 0.10323671572500001,
+    "median": 0.135970921725,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.19178112332500002,
+    "max": 0.229992250725,
+    "min": 0.173314361725,
+    "median": 0.181397904725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.314420905325,
+    "max": 0.353903812725,
+    "min": 0.296360655725,
+    "median": 0.30499841772499997,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.721735820525,
+    "max": 0.758340512725,
+    "min": 0.687849838725,
+    "median": 0.7184765337250001,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.9894823501250001,
+    "max": 1.037905596725,
+    "min": 0.9448766167250001,
+    "median": 0.9963750867250001,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.035881664725,
+    "max": 0.039616501725,
+    "min": 0.033516312725,
+    "median": 0.034201528725,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.058799007725000005,
+    "max": 0.06220395472500001,
+    "min": 0.057176205725,
+    "median": 0.05831278072500001,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.07430453452500001,
+    "max": 0.076186275725,
+    "min": 0.07259947972500001,
+    "median": 0.07439282972500001,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.12027442832500002,
+    "max": 0.132103478725,
+    "min": 0.10984418772500001,
+    "median": 0.12092102872500002,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.18476902012500002,
+    "max": 0.19743248072500003,
+    "min": 0.17634957372500001,
+    "median": 0.183825967725,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.317924255725,
+    "max": 0.327382284725,
+    "min": 0.303119137725,
+    "median": 0.323573634725,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.7371354531250002,
+    "max": 0.7953224687250001,
+    "min": 0.705150933725,
+    "median": 0.7298987557250001,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.9606196707250001,
+    "max": 0.983473901725,
+    "min": 0.9341218947250001,
+    "median": 0.9638669147250001,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 15000
+  },
+  {
+    "mean": 0.048437757525,
+    "max": 0.054428409725,
+    "min": 0.04429787072500001,
+    "median": 0.049001438725,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.085594979725,
+    "max": 0.09763748272500002,
+    "min": 0.07171156772500001,
+    "median": 0.08646396472500001,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.10214350652500001,
+    "max": 0.10606805372500001,
+    "min": 0.09751798272500001,
+    "median": 0.10237655572500001,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.170124098125,
+    "max": 0.17809138872500002,
+    "min": 0.16210807072500003,
+    "median": 0.16988133972500002,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.292393922525,
+    "max": 0.333020038725,
+    "min": 0.264105829725,
+    "median": 0.283439405725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.48912309812500004,
+    "max": 0.5640984597250001,
+    "min": 0.461952548725,
+    "median": 0.468982481725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 25000
+  },
+  {
+    "mean": 1.4287945717250001,
+    "max": 1.484544434725,
+    "min": 1.291269878725,
+    "median": 1.476928043725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 25000
+  },
+  {
+    "mean": 1.7320842659249998,
+    "max": 2.0296867427249996,
+    "min": 1.5215338357250001,
+    "median": 1.6566746887250001,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.046559186725,
+    "max": 0.053353265725,
+    "min": 0.041713682725000006,
+    "median": 0.04769979672500001,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.07474413292500001,
+    "max": 0.07966577072500002,
+    "min": 0.06958974472500001,
+    "median": 0.07495798972500001,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.10516163772500002,
+    "max": 0.11508289272500001,
+    "min": 0.10123520072500002,
+    "median": 0.10355450672500001,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.17545382512500002,
+    "max": 0.18530733772500002,
+    "min": 0.15487350772500003,
+    "median": 0.177934549725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.292394564125,
+    "max": 0.315626618725,
+    "min": 0.261611644725,
+    "median": 0.302098665725,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.49025462852500007,
+    "max": 0.5067496447250001,
+    "min": 0.461290940725,
+    "median": 0.49961224772499996,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 25000
+  },
+  {
+    "mean": 1.156213691125,
+    "max": 1.197067749725,
+    "min": 1.121994809725,
+    "median": 1.143247708725,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 25000
+  },
+  {
+    "mean": 1.574005498125,
+    "max": 1.626354758725,
+    "min": 1.4819023557250002,
+    "median": 1.598706425725,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 25000
+  },
+  {
+    "mean": 0.072582054925,
+    "max": 0.07703786572500002,
+    "min": 0.068992844725,
+    "median": 0.07076895472500001,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.12333463652500003,
+    "max": 0.13881797172500002,
+    "min": 0.11198184772500001,
+    "median": 0.12289030072500001,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.16693201332500002,
+    "max": 0.17421425272500002,
+    "min": 0.14668019672500002,
+    "median": 0.17183419872500003,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.284442920325,
+    "max": 0.319136068725,
+    "min": 0.270203068725,
+    "median": 0.279413288725,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.500845681925,
+    "max": 0.539214557725,
+    "min": 0.473596134725,
+    "median": 0.48824977072500003,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 50000
+  },
+  {
+    "mean": 1.3288563613250002,
+    "max": 1.4510136847250001,
+    "min": 1.226272979725,
+    "median": 1.286373569725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 50000
+  },
+  {
+    "mean": 2.822599328125,
+    "max": 2.939065354725,
+    "min": 2.631251093725,
+    "median": 2.862125373725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 50000
+  },
+  {
+    "mean": 3.894244984925,
+    "max": 4.100828517725,
+    "min": 3.611017805725,
+    "median": 3.906000781725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.080262715925,
+    "max": 0.12181979672500001,
+    "min": 0.06680737072500001,
+    "median": 0.07087419272500001,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.12175584932500001,
+    "max": 0.130229127725,
+    "min": 0.11187008272500001,
+    "median": 0.12209712172500001,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.15951644932500003,
+    "max": 0.17097816072500002,
+    "min": 0.145904964725,
+    "median": 0.160251423725,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.297026954725,
+    "max": 0.314435865725,
+    "min": 0.27740978572499997,
+    "median": 0.295820376725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.521305852125,
+    "max": 0.582766143725,
+    "min": 0.48962532472500003,
+    "median": 0.509574086725,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.968023707725,
+    "max": 1.055452235725,
+    "min": 0.9136983047250001,
+    "median": 0.9456659417250001,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 50000
+  },
+  {
+    "mean": 2.305026338725,
+    "max": 2.3688628717249998,
+    "min": 2.1945809167249997,
+    "median": 2.3342669247249996,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 50000
+  },
+  {
+    "mean": 3.3501588619249993,
+    "max": 3.680763876725,
+    "min": 3.1397931567249997,
+    "median": 3.3312203537249996,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 50000
+  },
+  {
+    "mean": 0.12464329912500001,
+    "max": 0.13649386572500002,
+    "min": 0.11725633172500001,
+    "median": 0.123438940725,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.185424325125,
+    "max": 0.19783625972500002,
+    "min": 0.17260857772500002,
+    "median": 0.18529720472500003,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.23027491872500003,
+    "max": 0.23907993672500003,
+    "min": 0.219796927725,
+    "median": 0.23437057772500003,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.392385419525,
+    "max": 0.431177475725,
+    "min": 0.376093608725,
+    "median": 0.384419414725,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.6329235899250001,
+    "max": 0.7052706467250001,
+    "min": 0.5651129037250001,
+    "median": 0.638969496725,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.9645513805250001,
+    "max": 1.073856842725,
+    "min": 0.9128827097250001,
+    "median": 0.9304016207250001,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 100000
+  },
+  {
+    "mean": 3.052224054525,
+    "max": 3.0985179807249996,
+    "min": 2.989801223725,
+    "median": 3.073251574725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 100000
+  },
+  {
+    "mean": 4.864397992724999,
+    "max": 5.020599186725,
+    "min": 4.700874215724999,
+    "median": 4.851312690725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.11649254572500001,
+    "max": 0.140734466725,
+    "min": 0.10713286572500001,
+    "median": 0.11131851072500001,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.18606084232500003,
+    "max": 0.19709041072500003,
+    "min": 0.17716807172500001,
+    "median": 0.18381765572500003,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.259100632925,
+    "max": 0.277746234725,
+    "min": 0.23590380472500003,
+    "median": 0.263433236725,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.433337754325,
+    "max": 0.5181060717250001,
+    "min": 0.398387130725,
+    "median": 0.417941208725,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.6732257825250001,
+    "max": 0.8029077107250001,
+    "min": 0.5750589047250001,
+    "median": 0.6467028247250001,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 100000
+  },
+  {
+    "mean": 1.072118615325,
+    "max": 1.196719098725,
+    "min": 1.009197626725,
+    "median": 1.040164801725,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 100000
+  },
+  {
+    "mean": 3.2073693845249998,
+    "max": 3.447383467725,
+    "min": 2.9753850217249997,
+    "median": 3.190349665725,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 100000
+  },
+  {
+    "mean": 5.173560263525,
+    "max": 5.325319545725,
+    "min": 4.974510397725,
+    "median": 5.172954391725,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 100000
+  },
+  {
+    "mean": 0.230214240725,
+    "max": 0.259306095725,
+    "min": 0.21007884372500002,
+    "median": 0.22568127472500002,
+    "mapping_type": "keyword",
+    "shard_count": 1,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.355310060925,
+    "max": 0.413267946725,
+    "min": 0.318701224725,
+    "median": 0.332345065725,
+    "mapping_type": "keyword",
+    "shard_count": 5,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.645330430325,
+    "max": 1.058444407725,
+    "min": 0.455387936725,
+    "median": 0.477935992725,
+    "mapping_type": "keyword",
+    "shard_count": 10,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.956165334125,
+    "max": 1.037283658725,
+    "min": 0.892825624725,
+    "median": 0.9488161527250001,
+    "mapping_type": "keyword",
+    "shard_count": 25,
+    "term_count": 200000
+  },
+  {
+    "mean": 1.627175495925,
+    "max": 1.714019941725,
+    "min": 1.512601392725,
+    "median": 1.6428614947250002,
+    "mapping_type": "keyword",
+    "shard_count": 50,
+    "term_count": 200000
+  },
+  {
+    "mean": 3.031174574125,
+    "max": 3.1552528127249997,
+    "min": 2.9468911637249997,
+    "median": 3.010305354725,
+    "mapping_type": "keyword",
+    "shard_count": 100,
+    "term_count": 200000
+  },
+  {
+    "mean": 8.985819586325,
+    "max": 9.453716844725,
+    "min": 8.659993303725,
+    "median": 8.879569464725,
+    "mapping_type": "keyword",
+    "shard_count": 150,
+    "term_count": 200000
+  },
+  {
+    "mean": 12.626215019524999,
+    "max": 13.006093087725,
+    "min": 12.289723116725,
+    "median": 12.549702676725,
+    "mapping_type": "keyword",
+    "shard_count": 200,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.18901902052500003,
+    "max": 0.19991097872500002,
+    "min": 0.17667084572500003,
+    "median": 0.19022707472500003,
+    "mapping_type": "long",
+    "shard_count": 1,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.34486287652500003,
+    "max": 0.379216964725,
+    "min": 0.327668318725,
+    "median": 0.33389089372499997,
+    "mapping_type": "long",
+    "shard_count": 5,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.484321155725,
+    "max": 0.622043893725,
+    "min": 0.408725677725,
+    "median": 0.465064535725,
+    "mapping_type": "long",
+    "shard_count": 10,
+    "term_count": 200000
+  },
+  {
+    "mean": 0.9417323495249998,
+    "max": 1.007328533725,
+    "min": 0.8125936947250001,
+    "median": 0.9666921957250001,
+    "mapping_type": "long",
+    "shard_count": 25,
+    "term_count": 200000
+  },
+  {
+    "mean": 1.627610381125,
+    "max": 1.730203573725,
+    "min": 1.545566650725,
+    "median": 1.6214791727250002,
+    "mapping_type": "long",
+    "shard_count": 50,
+    "term_count": 200000
+  },
+  {
+    "mean": 2.848421122525,
+    "max": 2.918273294725,
+    "min": 2.732938619725,
+    "median": 2.906623228725,
+    "mapping_type": "long",
+    "shard_count": 100,
+    "term_count": 200000
+  },
+  {
+    "mean": 8.605018643525002,
+    "max": 8.705664468725,
+    "min": 8.513816475725,
+    "median": 8.577873612725,
+    "mapping_type": "long",
+    "shard_count": 150,
+    "term_count": 200000
+  },
+  {
+    "mean": 11.970577670925,
+    "max": 12.109425780725,
+    "min": 11.835445297725,
+    "median": 11.996310112725,
+    "mapping_type": "long",
+    "shard_count": 200,
+    "term_count": 200000
+  }
+]
