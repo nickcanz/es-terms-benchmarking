@@ -1,0 +1,180 @@
+{
+  "results": [
+    {
+      "command": "SHARD_COUNT=1 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 0.39315215941000003,
+      "stddev": 0.0969178181062705,
+      "median": 0.35587610021,
+      "user": 0.039655470000000005,
+      "system": 0.015352064999999998,
+      "min": 0.31877140821,
+      "max": 0.5608315822100001,
+      "times": [
+        0.35587610021,
+        0.31877140821,
+        0.5608315822100001,
+        0.38710215721,
+        0.34317954921
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "1",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=5 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 0.50034272561,
+      "stddev": 0.0636018303601164,
+      "median": 0.52376830721,
+      "user": 0.041558069999999996,
+      "system": 0.014733064999999998,
+      "min": 0.42185237521,
+      "max": 0.58026102821,
+      "times": [
+        0.42185237521,
+        0.52516843621,
+        0.58026102821,
+        0.52376830721,
+        0.45066348121
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "5",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=10 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 0.72929910421,
+      "stddev": 0.1079181483654135,
+      "median": 0.73533526221,
+      "user": 0.03989486999999999,
+      "system": 0.014036665,
+      "min": 0.60305932321,
+      "max": 0.8710997942100001,
+      "times": [
+        0.60305932321,
+        0.8710997942100001,
+        0.79016554521,
+        0.64683559621,
+        0.73533526221
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "10",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=25 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 1.1102379364100001,
+      "stddev": 0.08300362458572964,
+      "median": 1.0716838502100001,
+      "user": 0.040907269999999996,
+      "system": 0.014252665000000001,
+      "min": 1.05914846521,
+      "max": 1.2555304182100002,
+      "times": [
+        1.2555304182100002,
+        1.10245778121,
+        1.0716838502100001,
+        1.0623691672100002,
+        1.05914846521
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "25",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=50 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 1.7633390456100002,
+      "stddev": 0.11092203213913793,
+      "median": 1.78680859421,
+      "user": 0.03997567,
+      "system": 0.015182265,
+      "min": 1.57478048821,
+      "max": 1.8689140762100003,
+      "times": [
+        1.78680859421,
+        1.8689140762100003,
+        1.80290918121,
+        1.78328288821,
+        1.57478048821
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "50",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=100 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 3.5520189526100006,
+      "stddev": 0.14855788935656852,
+      "median": 3.54140150621,
+      "user": 0.040436669999999994,
+      "system": 0.015278265,
+      "min": 3.37493393021,
+      "max": 3.78555507621,
+      "times": [
+        3.37493393021,
+        3.5537645222100003,
+        3.5044397282100004,
+        3.78555507621,
+        3.54140150621
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "100",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=150 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 10.44688337101,
+      "stddev": 0.4858122685740895,
+      "median": 10.68739942821,
+      "user": 0.045849469999999996,
+      "system": 0.017144064999999997,
+      "min": 9.72617563821,
+      "max": 10.856181351210001,
+      "times": [
+        10.16868325421,
+        10.856181351210001,
+        10.68739942821,
+        9.72617563821,
+        10.79597718321
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "150",
+        "term_count": "200000"
+      }
+    },
+    {
+      "command": "SHARD_COUNT=200 MAPPING_TYPE=keyword TERM_COUNT=200000 bash ./make_query.sh",
+      "mean": 13.38000847781,
+      "stddev": 0.326484341335077,
+      "median": 13.26256570721,
+      "user": 0.03972227,
+      "system": 0.015084064999999999,
+      "min": 13.13068408821,
+      "max": 13.93362071221,
+      "times": [
+        13.93362071221,
+        13.40163071021,
+        13.26256570721,
+        13.17154117121,
+        13.13068408821
+      ],
+      "parameters": {
+        "mapping_type": "keyword",
+        "shard_count": "200",
+        "term_count": "200000"
+      }
+    }
+  ]
+}

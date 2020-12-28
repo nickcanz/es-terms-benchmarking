@@ -23,6 +23,6 @@ hyperfine --warmup 3 --min-runs 5 \
   --cleanup 'bash ./clean_up.sh' \
   --export-markdown output/single_node_benchmark.md \
   --export-json output/single_node_benchmark.json \
-  'SHARD_COUNT={shard_count} MAPPING_TYPE={mapping_type} bash ./make_query.sh'
+  'SHARD_COUNT={shard_count} MAPPING_TYPE={mapping_type} TERM_COUNT={term_count} bash ./make_query.sh'
 
 docker stop $container
